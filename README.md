@@ -1,3 +1,9 @@
+<h1>Blog app in ReactJS</h1>
+
+### Screen Shot
+
+![KaidoSo-Blog](https://github.com/KaidoSo/kaidoso-blog/tree/main/src/ScreenShot.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
