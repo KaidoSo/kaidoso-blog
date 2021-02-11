@@ -2,7 +2,9 @@
 
 ### Screen Shot
 
-![KaidoSo-Blog](https://raw.github.com/KaidoSo/kaidoso-blog/tree/main/media/ScreenShot.png)
+<p>
+    <img src="https://raw.github.com/KaidoSo/kaidoso-blog/tree/main/media/ScreenShot.png" width="220" height="240" />
+</p>
 
 # Getting Started with Create React App
 
