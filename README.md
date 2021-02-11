@@ -3,7 +3,7 @@
 ### Screen Shot
 
 <p>
-    <img src="https://raw.github.com/KaidoSo/kaidoso-blog/tree/main/media/ScreenShot.png" width="220" height="240" />
+    <img src="https://ibb.co/y6dWsjV" width="220" height="240" />
 </p>
 
 # Getting Started with Create React App
